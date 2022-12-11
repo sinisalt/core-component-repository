@@ -1,11 +1,11 @@
 {
-    "name": "mehedi-iitdu/core-component-repository",
+    "name": "sinisalt/core-component-repository",
     "description": "My awesome package",
     "keywords": [
-        "mehedi-iitdu",
+        "sinisalt",
         "core-component-repository"
     ],
-    "homepage": "https://github.com/mehedi-iitdu/core-component-repository",
+    "homepage": "https://github.com/sinisalt/core-component-repository",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.3",
+        "php": "^8.1",
         "illuminate/support": "*"
     },
     "require-dev":{
